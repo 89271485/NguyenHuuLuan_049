@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_1", "bai_1\bai_1.csproj", "{8F3F722E-61FC-4D0F-A339-7591328E50C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2", "Bai_2\Bai_2.csproj", "{9680D5CF-F81C-4311-8F80-9E74523617E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3F722E-61FC-4D0F-A339-7591328E50C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3F722E-61FC-4D0F-A339-7591328E50C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3F722E-61FC-4D0F-A339-7591328E50C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3F722E-61FC-4D0F-A339-7591328E50C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9680D5CF-F81C-4311-8F80-9E74523617E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9680D5CF-F81C-4311-8F80-9E74523617E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9680D5CF-F81C-4311-8F80-9E74523617E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9680D5CF-F81C-4311-8F80-9E74523617E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB7C2A3-40EF-4460-A6A9-08ED0A838C7B}
+	EndGlobalSection
+EndGlobal
